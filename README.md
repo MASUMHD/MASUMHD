@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Nextjs and MySQL**
 
- 💬 Ask me about **React, Nodejs, Firebase...or anything**
+ 💬 Ask me about **React, Nodejs, Firebase...or anything [here](https://66e2a2dcfd67e4251b3086c6--glittering-rabanadas-c4bcfc.netlify.app/) 
 
  📫 How to reach me **mrmasum2k4@gmail.com**
 </div>
