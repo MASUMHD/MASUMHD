@@ -57,10 +57,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- First row of icons -->
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react" /><br/>
-
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,express,git,github,figma" />    
-   
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nodejs,firebase,mongodb,express,git,github,figma" /><br/>
   </a>
 </div>
 
