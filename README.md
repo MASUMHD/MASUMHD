@@ -1,4 +1,4 @@
-![logo](https://philna.sh/_astro/react.Dr2GeIML.gif)
+![logo](https://i.postimg.cc/HnvKmM18/masum.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masumhd&label=Profile%20views&color=0e75b6&style=flat" alt="masumhd" /> </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Masum+Billah!" />
